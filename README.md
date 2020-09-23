@@ -68,3 +68,4 @@ Visit for more help or information!
 <a href="https://discord.gg/WjEFnzC">
   <img src="https://discordapp.com/api/guilds/258167954913361930/embed.png?style=banner2" title="Discord Server"/>
 </a>
+[![Run on Repl.it](https://repl.it/badge/github/peterthehan/discord-reaction-role-bot)](https://repl.it/github/peterthehan/discord-reaction-role-bot)
